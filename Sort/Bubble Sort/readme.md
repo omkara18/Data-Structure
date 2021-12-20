@@ -10,7 +10,7 @@
 
 # Pass
 ## First Pass: 
- '''(10 5 15 0 12) –> ( 5 10 15 0 12 )'''
+ ''' (10 5 15 0 12) –> ( 5 10 15 0 12 ) '''
 >  Here, algorithm compares the first two elements, and swaps since 10>5 
  (5 10 15 0 12 ) 
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Pass-1.png)
