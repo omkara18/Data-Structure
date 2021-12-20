@@ -2,9 +2,9 @@
 - Bubble Sort is the simplest of the sorting techniques.
 - In the bubble sort technique, each of the elements in the list is compared to its adjacent element. Thus if there are n elements in list A, then A[0] is compared to A[1], A[1] is compared to A[2] and so on. After comparing if the first element is greater than the second, the two elements are swapped then.
 
-#Bubble Sort Code In C++
+# Bubble Sort Code In C++
 
-#Output
+# Output
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Bubble.png)
 
 
