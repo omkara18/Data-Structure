@@ -10,6 +10,7 @@ int main()
     {
         cin>>arr[i];
     }
+    
     for(i=0;i<cnt-1;i++)//Maximum Passing = cnt-1
     {    min=arr[i]; //min=5
          loc=i;    //loc: 0
