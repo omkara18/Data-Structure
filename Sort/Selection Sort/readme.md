@@ -9,3 +9,7 @@
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Selection%20Sort/Output/Selection.png)
 ## Output
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Selection%20Sort/Output/Selection_Output.png)
+## Working Of Selection Sort
+-Set the first element as minimum.
+![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Selection%20Sort/Output/Selection-sort-0-initial-array.webp)
+
