@@ -7,3 +7,5 @@
 - This process continues moving unsorted array boundary by one element to the right.
 # Selection Sort Code
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Selection%20Sort/Output/Selection.png)
+## Output
+![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Selection%20Sort/Output/Selection_Output.png)
