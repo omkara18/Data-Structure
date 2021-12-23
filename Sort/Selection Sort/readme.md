@@ -32,7 +32,7 @@
 # Selection Sort Complexity
 | Time Complexity |         |
 | ------ | ------ |
-| Best|  | O(n2)  |
+| Best | O(n2)  |
 | Worst |  O(n2)   |
 | Aaverage | O(n2)|
 | Space Complexity | O(n) |
