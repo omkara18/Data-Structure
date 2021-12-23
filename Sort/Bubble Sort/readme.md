@@ -21,6 +21,15 @@
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Pass-2.png)
 ## Third Pass:
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Pass-3.png)
+ # Selection Sort Complexity
+| Time Complexity |         |
+| ------ | ------ |
+| Best | O(n)  |
+| Worst |  O(n2)   |
+| Aaverage | O(n2)|
+| Space Complexity | O(1) |
+| Stability| Yes |
+
 # Bubble Sort Applications
 Bubble sort is used if
 - complexity does not matter 
