@@ -21,3 +21,9 @@
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Pass-2.png)
 ## Third Pass:
 ![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Bubble%20Sort/output/Pass-3.png)
+# Bubble Sort Applications
+Bubble sort is used if
+- complexity does not matter 
+- short and simple code is preferredBubble Sort Applications
+
+
