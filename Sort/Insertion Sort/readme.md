@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Merge Sort
 - Merge sort is one of the most efficient sorting techniques and it's based on the “divide and conquer” paradigm.
 - Here, a problem is divided into multiple sub-problems. Each sub-problem is solved individually. Finally, sub-problems are combined to form the final solution.
@@ -19,3 +20,7 @@
 
 
 
+=======
+# Insertion Sorting Code
+![ALT Text](https://github.com/omkara18/Data-Structure/blob/master/Sort/Insertion%20Sort/Output/Insertion.png)
+>>>>>>> 6ea113f9533fe8c84988e9096f05d905384c74d9
